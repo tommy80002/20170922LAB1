@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="hello_develop_branch">Hello Develop Branch</string>
 </resources>
